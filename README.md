@@ -3,7 +3,7 @@
 
 **`Futuro Dev-FullStack`**
 
-Me chamo Eduardo José Da Silva Oliveira, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor full stack, atualmente trabalho como estagiario no CEPEIN - fema
+Me chamo Eduardo José Da Silva Oliveira, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor full stacl.
 
 <p align="left">
     <a href="https://github.com/kaiser0102?tab=repositories&sort=stargazers">
